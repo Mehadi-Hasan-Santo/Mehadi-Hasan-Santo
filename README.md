@@ -4,7 +4,7 @@
 
 - 🎓 I'm Currently Pursuing Bachelors degree in **Computer Science & Engineering at University of Dhaka**
 
-- 🔭 I’m currently working on **High Quality TTS Syatem Development in Bangla**
+- 🔭 I’m currently working on **High Quality TTS System Development in Bangla**
 
 - 👯 I’m looking to collaborate on **AI related Training and ML related Project**
 
