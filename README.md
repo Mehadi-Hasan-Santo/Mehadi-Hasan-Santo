@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mehadihasansanto8@gmail.com**
 
-- 😄 Pronouns: He/him/his
+- 😄 Pronouns for me **He/Him/His**
 
 - ⚡ Fun fact **I am not at all funny!**
 
@@ -57,7 +57,7 @@
 
 <p  align="center">
 <!-- <a  href="https://github.com/Mehadi-Hasan-Santo/Mehadi-Hasan-Santo"><img  alt="Mehadi's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=Mehadi-Hasan-Santo&show_icons=true&theme=merko"  width=55%/></a> -->
-<a  href="https://github.com/Mehadi-Hasan-Santo/Mehadi-Hasan-Santo"><img  alt="Mehadi's language used"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadi-Hasan-Santo&layout=compact&langs_count=8&theme=aura_dark"  width=40%/></a>
-<a  href="https://github.com/Mehadi-Hasan-Santo/Mehadi-Hasan-Santo"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mehadi-Hasan-Santo&theme=aura_dark" alt="GitHub Stats" />
+<a  href="https://github.com/Mehadi-Hasan-Santo/Mehadi-Hasan-Santo"><img  alt="Mehadi's language used"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadi-Hasan-Santo&layout=compact&langs_count=8&theme=aura_dark" width=40%/></a>
+<a  href="https://github.com/Mehadi-Hasan-Santo/Mehadi-Hasan-Santo"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mehadi-Hasan-Santo&theme=aura_dark" alt="GitHub Stats" width=40%/>
 <h3>GitHub Trophies 🏆 </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehadi-hasan-santo" alt="mehadi-hasan-santo" /></a> </p>
