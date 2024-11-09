@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Academics, Programming such as python/C/C++/Java, Problem Solving**
 
-- 📫 How to reach me **mehadihasansanto8@gmail.com**
+- 📫 How to reach me **mehadihasansanto100@gmail.com**
 
 - 😄 Pronouns for me **He/Him/His**
 
@@ -21,20 +21,41 @@
 <h3 align="left">You Can Connect with me via:</h3>
 <!--
 <p align="left">
-<a href="https://linkedin.com/in/mehadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehadi" height="30" width="40" /></a>
+<a href="mehadihasansanto100@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehadi" height="30" width="40" /></a>
 <a href="https://fb.com/mehadi hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehadi hasan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@mehadihasan5188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mehadihasan5188" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mehadihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehadihasan" height="30" width="40" /></a>
 <a href="https://discord.gg/0856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0856" height="30" width="40" /></a>
 </p>
--->
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mehadihasansanto100@gmail.com" <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/mehadi-hasan-3367a3337" <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.facebook.com/profile.php?id=100080305724665" <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
+  <a href="https://www.youtube.com/@mehadihasansanto538" <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+  <a href="https://instagram.com/mehadi" <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="https://discord.gg/0856" <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+</div>
+-->
+
+<div align="left">
+  <a href="mehadihasansanto100@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mehadi-hasan-3367a3337" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100080305724665" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.youtube.com/@mehadihasansanto538" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/mehadi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/invite/#0856" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 
@@ -46,11 +67,11 @@
 
 <h3>My Projects 🙌</h3>
 
-- [War Of Independence-1971(WOI-1971)](https://github.com/AbdullahArean/WOI-1971) - An SDL2-based action game written in C language. Simple, clear, and easily customizable code made this game distinctive. Based on the Bangladeshi people's war of independence against Pakistani military forces in 1971. The bravery of the Bangladeshi Freedom Fighters is honored with great reverence in this game.<br>
+- [War Of Independence-1971(WOI-1971)](https://github.com/AbdullahArean/WOI-1971) - An SDL2-based action game written in C/C++ language. Simple, clear, and easily customizable code made this game distinctive. Based on the Bangladeshi people's war of independence against Pakistani military forces in 1971. The bravery of the Bangladeshi Freedom Fighters is honored with great reverence in this game.<br>
 
-- [Hospice-(The Ultimate Hospital Management System)](https://github.com/AbdullahArean/Hospice) - To reduce hastle of managing the financial, hospital administration, and clinical aspects, Hospice-(The Ultimate Hospital Management System) came into existence. It will benefit Hospitals or clinics by increasing Processing Speed and Results, Cost Effective, Reduction in Errors, Data Security and Retrieving Ability, and Improved Patient Care with Quality and Compliance. It is written in Java and used JavaFx for graphics.<br>
+- [Hospice-(The Ultimate Hospital Management System)](https://github.com/AbdullahArean/Hospice) - To reduce hustle of managing the financial, hospital administration, and clinical aspects, Hospice-(The Ultimate Hospital Management System) came into existence. It will benefit Hospitals or clinics by increasing Processing Speed and Results, Cost Effective, Reduction in Errors, Data Security and Retrieving Ability, and Improved Patient Care with Quality and Compliance. It is written in Java and used JavaFx for graphics.<br>
 
-- [Climate Relief](https://github.com/AbdullahArean/ClimateRelief) - An Android Java Application is developed to solve problem in Relief Distribution such as Misappropriation of remedy, insufficient relief, lack of centralized system or list, and absence of a complaint resolution mechanism. [Live Demo App Download](https://github.com/AbdullahArean/ClimateRelief/releases) <br>
+- [Climate Relief](https://github.com/AbdullahArean/ClimateRelief) - An Android Application is developed to solve problem in Relief Distribution such as Misappropriation of remedy, insufficient relief, lack of centralized system or list, and absence of a complaint resolution mechanism. Basically it is written in Java. [Live Demo App Download](https://github.com/AbdullahArean/ClimateRelief/releases) <br>
   
 
 <h3>GitHub Stats 📈 </h3>
