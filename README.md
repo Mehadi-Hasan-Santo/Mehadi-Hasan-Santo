@@ -64,7 +64,8 @@
 - [Hospice-(The Ultimate Hospital Management System)](https://github.com/AbdullahArean/Hospice) - To reduce hustle of managing the financial, hospital administration, and clinical aspects, Hospice-(The Ultimate Hospital Management System) came into existence. It will benefit Hospitals or clinics by increasing Processing Speed and Results, Cost Effective, Reduction in Errors, Data Security and Retrieving Ability, and Improved Patient Care with Quality and Compliance. It is written in Java and used JavaFx for graphics.<br>
 
 - [Climate Relief](https://github.com/AbdullahArean/ClimateRelief) - An Android Application is developed to solve problem in Relief Distribution such as Misappropriation of remedy, insufficient relief, lack of centralized system or list, and absence of a complaint resolution mechanism. Basically it is written in Java. [Live Demo App Download](https://github.com/AbdullahArean/ClimateRelief/releases) <br>
-  
+
+- [CSEDU Website](https://github.com/Dipto-shaha/cseduwebclient) - An official website for the Department of Computer Science and Engineering (CSE) of University of Dhaka which is a central platform for students, faculty, researchers, alumni and visitors to access academic programs, research highlights, faculty expertise and department news as well as events. It has been built with React (frontend), FastAPI (backend) and MongoDB (Database). The site integrates essential resources like student services, career support, event updates and social media by prioritizing scalability, security and accessibility. This project enhanced our development skills and experience in collaborative, version-controlled development for a real-world application.
 
 <h3>GitHub Stats 📈 </h3>
 
