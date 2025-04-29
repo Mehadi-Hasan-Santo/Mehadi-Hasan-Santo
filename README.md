@@ -59,6 +59,8 @@
 
 <h3>My Projects 🙌</h3>
 
+- [Bangla TTS Performance Evaluation: A Benchmark Study on Synthesized Speech Quality and Intelligibility](https://github.com/Mehadi-Hasan-Santo/Bengali-TTS-System) - A benchmarking platform for Bangla Text-to-Speech systems that evaluates speech quality and intelligibility using both objective metrics such as Signal-to-Noise Ratio (SNR), Word Error Rate (WER), Phoneme Error Rate (PER), Mel-spectrogram Mean Squared Error (Mel-MSE), Real-Time Factor (RTF) and subjective human ratings such as Mean Opinion Score (MOS). Developed with PyTorch and deployed via a web interface and API, it compares models like Tacotron2, FastSpeech2, VITS, and Grad-TTS to improve Bangla TTS performance and accessibility.<br>
+
 - [War Of Independence-1971(WOI-1971)](https://github.com/AbdullahArean/WOI-1971) - An SDL2-based action game written in C/C++ language. Simple, clear, and easily customizable code made this game distinctive. Based on the Bangladeshi people's war of independence against Pakistani military forces in 1971. The bravery of the Bangladeshi Freedom Fighters is honored with great reverence in this game.<br>
 
 - [Hospice-(The Ultimate Hospital Management System)](https://github.com/AbdullahArean/Hospice) - To reduce hustle of managing the financial, hospital administration, and clinical aspects, Hospice-(The Ultimate Hospital Management System) came into existence. It will benefit Hospitals or clinics by increasing Processing Speed and Results, Cost Effective, Reduction in Errors, Data Security and Retrieving Ability, and Improved Patient Care with Quality and Compliance. It is written in Java and used JavaFx for graphics.<br>
